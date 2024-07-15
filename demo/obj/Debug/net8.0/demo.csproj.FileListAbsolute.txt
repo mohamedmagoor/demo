@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\demo\demo\demo\bin\Debug\net8.0\demo.exe
+C:\Users\DELL\Desktop\demo\demo\demo\bin\Debug\net8.0\demo.deps.json
+C:\Users\DELL\Desktop\demo\demo\demo\bin\Debug\net8.0\demo.runtimeconfig.json
+C:\Users\DELL\Desktop\demo\demo\demo\bin\Debug\net8.0\demo.dll
+C:\Users\DELL\Desktop\demo\demo\demo\bin\Debug\net8.0\demo.pdb
+C:\Users\DELL\Desktop\demo\demo\demo\obj\Debug\net8.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\demo\demo\demo\obj\Debug\net8.0\demo.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\demo\demo\demo\obj\Debug\net8.0\demo.AssemblyInfo.cs
+C:\Users\DELL\Desktop\demo\demo\demo\obj\Debug\net8.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\demo\demo\demo\obj\Debug\net8.0\demo.sourcelink.json
+C:\Users\DELL\Desktop\demo\demo\demo\obj\Debug\net8.0\demo.dll
+C:\Users\DELL\Desktop\demo\demo\demo\obj\Debug\net8.0\refint\demo.dll
+C:\Users\DELL\Desktop\demo\demo\demo\obj\Debug\net8.0\demo.pdb
+C:\Users\DELL\Desktop\demo\demo\demo\obj\Debug\net8.0\demo.genruntimeconfig.cache
+C:\Users\DELL\Desktop\demo\demo\demo\obj\Debug\net8.0\ref\demo.dll
